@@ -1,0 +1,346 @@
+@media (min-width: 1200px) {
+    .nivoSlider img {
+        height: 374px
+    }
+}
+
+@media (max-width: 1240px) {
+    #wrapper2 {
+        width: 100%
+    }
+
+     .product_listing_main .product {
+        width: 100% !important
+    }
+
+  
+
+     .product>div {
+        margin-top: 20px
+    }
+}
+
+@media (max-width: 1199px) {
+    .custom_showcase a h3 {
+        font-size: 16px;
+        line-height: 16px
+    }
+
+    .product_wrap #bx-pager a {
+        width: 84px
+    }
+}
+
+@media (max-width: 992px) {
+    #navigation .customSelectInner {
+        padding: 0 10px;
+        line-height: 30px;
+        width: 213px !important
+    }
+
+    #navigation i.fa {
+        position: absolute;
+        right: 10px;
+        top: 8px;
+        z-index: 0
+    }
+
+    #navigation.isStuck {
+        position: relative !important;
+        top: auto;
+        box-shadow: none !important;
+        left: 0px;
+        right: 0px !important
+    }
+
+    #navigation.isStuck nav {
+        box-shadow: none !important
+    }
+
+    .pseudoStickyBlock {
+        display: none !important
+    }
+
+    #navigation select.menu_mobile {
+        width: 100% !important;
+        height: 41px !important;
+        display: block !important;
+        background: #ffffff;
+        color: #969696;
+        padding: 10px
+    }
+
+    #navigation .customSelectInner {
+        white-space: nowrap;
+        width: 213px
+    }
+
+    #navigation i.fa {
+        font-size: 22px;
+        position: absolute;
+        right: 10px;
+        top: 7px;
+        z-index: 0
+    }
+
+    #navigation .customselect_wrap {
+        background: #ffffff;
+        border: 1px solid #dddddd;
+        margin: 10px auto 0;
+        max-width: 215px
+    }
+
+    .header_search #search-field {
+        max-width: 100%
+    }
+
+    #navigation select.menu_mobile {
+        width: 100% !important;
+        height: 49px !important;
+        display: block !important;
+        background: #ffffff;
+        color: #969696
+    }
+
+    .customselect_wrap {
+        position: relative;
+        cursor: pointer
+    }
+
+    .custom_showcase a .abs {
+        right: 0px
+    }
+
+    .custom_showcase .bg {
+        bottom: 53%
+    }
+
+    .product_price {
+        margin-top: 0
+    }
+
+    .product_price .money {
+        min-width: 78px;
+        height: 76px;
+        line-height: 70px
+    }
+
+    .product_price .money.compare-at-price {
+        white-space: nowrap;
+        margin-top: 0
+    }
+
+    .product_wrap #bx-pager {
+        width: 240px
+    }
+
+    .product_listing_sidebar .product_img a {
+        padding: 10px 14px
+    }
+
+    .product>div {
+        padding: 20px 10px 14px
+    }
+
+    .product_wrap #bx-pager a {
+        width: 61px
+    }
+
+     .product_wrap #purchase #add-to-cart {
+        margin-top: 20px
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        padding: 0 15px
+    }
+
+    .column_left,
+    .column_right,
+    .column_center,
+    #main_content {
+        margin-left: 0 !important;
+        margin-right: 0 !important
+    }
+
+    .header_cart,
+    .header_currency {
+        border-right: 0px
+    }
+
+    .header_user,
+    .header_currency,
+    .header_cart {
+        float: none;
+        text-align: left
+    }
+
+    .custom_showcase {
+        margin-top: 20px
+    }
+
+    .custom_showcase a img {
+        float: left;
+        margin-left: 20px;
+        width: auto
+    }
+
+    .custom_showcase a .abs {
+        position: relative;
+        left: 0px;
+        right: 0px
+    }
+
+    .custom_showcase .bg {
+        bottom: 36%;
+        right: -108px;
+        top: -140px
+    }
+
+    .custom_showcase a h3,
+    .custom_showcase a h4 {
+        font-size: 40px;
+        line-height: 40px
+    }
+
+    .product_listing_main .product {
+        margin: 15px 0 0
+    }
+
+    .product_listing_main .product>div {
+        overflow: hidden
+    }
+
+    .product_listing_main .product_img {
+        width: 50%;
+        float: left;
+        margin: 0 15px 0 0
+    }
+
+    .product_info {
+        overflow: hidden
+    }
+
+    .column .product {
+        margin: 15px 0 0
+    }
+
+    .column .product>div {
+        overflow: hidden
+    }
+
+    .column .product .product_img {
+        width: 22%;
+        float: left;
+        margin: 0 15px 0 0
+    }
+
+    .product_listing_sidebar .product_price {
+        margin-top: 0
+    }
+
+    .product_wrap .product_name {
+        margin: 0
+    }
+
+    .product_wrap #bx-pager {
+        width: 100%
+    }
+
+    .product_wrap #bx-pager a {
+        width: 70px;
+        display: inline-block;
+        float: none
+    }
+
+    .product_wrap .product-price {
+        margin-bottom: 0
+    }
+
+     .product_wrap #purchase #add-to-cart {
+        margin-top: 0
+    }
+
+     .product_wrap #purchase {
+        margin-top: 20px
+    }
+
+    .product_wrap #bx-pager {
+        text-align: center
+    }
+
+    .custom_showcase a .abs {
+        padding-right: 20px
+    }
+
+    .cart_buttons {
+        text-align: center
+    }
+
+    .cart_buttons span.or {
+        display: block;
+        margin: 5px 0
+    }
+}
+
+@media (max-width: 640px) {
+    .custom_showcase a .abs {
+        position: absolute
+    }
+}
+
+@media (max-width: 479px) {
+    .header_user li {
+        padding-right: 10px
+    }
+
+    .product_listing_main .product_img {
+        width: 100%
+    }
+
+    .product_price {
+        margin-top: -45px;
+        z-index: 100
+    }
+
+    .product_listing_main .product_img {
+        float: none
+    }
+
+    .product_info {
+        overflow: visible
+    }
+
+    .product_listing_sidebar .product_info {
+        overflow: hidden
+    }
+
+    .column .product .product_img {
+        width: 40%
+    }
+
+    h2.customer_name {
+        padding-top: 40px
+    }
+
+    h2.customer_name a {
+        position: absolute;
+        right: 0px;
+        top: 0px
+    }
+
+    .nivo-directionNav a {
+        display: none !important
+    }
+
+    .product_wrap #bx-pager {
+        padding-left: 0
+    }
+
+    .customer_account .customer_name {
+        padding-right: 0
+    }
+}
+
+/*# sourceMappingURL=/s/files/1/0507/2673/t/2/assets/responsive.css.map?v=82657242571001880251400831287 */

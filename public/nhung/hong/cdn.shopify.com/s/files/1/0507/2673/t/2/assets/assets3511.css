@@ -1,0 +1,57 @@
+/************************************* PRODUCT IMAGE SLIDER *************************************/
+
+#product_image-slider{
+  padding: 2px;
+  border:1px solid #ece5e3;
+  margin-bottom: 10px;
+}
+
+#product_image-slider .camera_caption{
+  background: none;
+  display: block;
+  height: 100%;
+  width: 100%;  
+}
+
+#product_image-slider .camera_caption div,
+#product_image-slider .camera_caption a{
+  display: block;
+  height: 100%;
+  width: 100%;  
+}
+
+#product_image-slider .camera_thumbs_cont ul{
+  padding: 12px 0 0 0;
+  text-align: left;
+  width: 100% !important;
+  clear: both;
+  overflow: hidden;
+  margin: 0 -4px;
+}
+
+#product_image-slider .camera_thumbs_cont ul li{
+  border: 1px solid #ece5e3;
+  display: block;
+  float: left;
+  box-sizing: border-box;
+    -moz-box-sizing: border-box; /*Firefox 1-3*/
+    -webkit-box-sizing: border-box; /* Safari */
+    padding: 4px;
+    width: 24%;
+    height: 100px;
+    margin: 0 2px 4px;
+    text-align: center;
+}
+
+#product_image-slider .camera_thumbs_cont ul li img{
+  border:none;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#product_image-slider .cameraSlide img{z-index: 0;}
+
+
+
+/************************************* MAGNIFIC POPUP *************************************/
+

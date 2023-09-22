@@ -1,0 +1,2 @@
+(function(c){c.fn.sftouchscreen=function(){return this.each(function(){c(this).find("li > ul").closest("li").children("a").each(function(){var e=c(this);e.click(function(i){if(e.hasClass("sf-clicked")){var s=e.attr("href");window.location=s}else i.preventDefault(),e.addClass("sf-clicked")}).closest("li").mouseleave(function(){e.removeClass("sf-clicked")})})})}})(jQuery);
+//# sourceMappingURL=/s/files/1/0507/2673/t/2/assets/sftouchscreen.js.map?v=112366920105338648641400587508
